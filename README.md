@@ -1,6 +1,3 @@
-# CrowdStrike Container Security
-
-[![CrowdStrike Container Security](./assets/youtube.png)](http://www.youtube.com/watch?v=4F1MtmgIvus "CrowdStrike Container Security")
 
 ## Runtime Protection
 To protect container and Kubernetes workloads choose between the following approaches. Either install traditional Falcon Container Sensor for Linux on each node of your cluster, or set-up Falcon Container Sensor to be deployed as a sidecar to each of your pods.
